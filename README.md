@@ -29,5 +29,7 @@
 <br />
 
 
+![Vardans's github stats](https://github-readme-stats.vercel.app/api?username=Va54&count_private=true&hide=contribs,prs&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Va54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/Wazo_Wski
 [linkedin]: https://www.linkedin.com/in/vardan-hayrapetyan-570938154/
